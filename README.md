@@ -1,2 +1,2 @@
 # DoubanMovieTop250
-爬虫抓取豆瓣电影Top250的电影信息
+采用Python爬虫抓取豆瓣电影Top250的电影信息
